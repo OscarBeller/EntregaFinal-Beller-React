@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "titulo": "Taragüi",
+        "descripcion": "Yerba elaborada sin palo, ideal para mates largos",
+        "stock": 1800,
+        "categoria": "Yerbas",
+        "imagen" :  "https://i.ibb.co/drSJkwt/yerba8.jpg",
+        "precio": 2000 
+    },
+     
+    {
+       " id": 2,
+        "titulo": "ROSAMONTE",
+        "descripcion": " La yerba con los cortes justos de hoja, un blend muy bueno.",
+        "stock": 1232,
+        "categoria": "Yerbas",
+        "imagen" :   "https://i.ibb.co/wcH0VV7/yerba6.jpg",
+        "precio": 2500 
+    },
+    
+    {
+        "id": 3,
+        "titulo": "PICADA VIEJA ",
+        "descripcion": "Como su nombre lo indica, es una yerba ideal para tomar con la vieja. Esos mates que te hacen mimos al corazon ",
+        "stock": 900,
+        "categoria": "Yerbas",
+        "imagen" :  "https://i.ibb.co/48B5Kk1/yerba4.jpg",
+        "precio": 1900
+    },
+
+
+    {
+        "id": 4,
+        "titulo": "MATE CAMIONERO DE ALGARROBO ",
+        "descripcion": " Mate camionero realizado en algarrobo, ideal para esos mates con amigos ",
+        "stock": 12,
+        "categoria": "Mates",
+        "imagen" :  "https://i.ibb.co/SmYrB6M/mate3.jpg",
+        "precio": 18500 
+    },
+
+    {
+        "id": 5,
+        "titulo": "MATE CAMIONERO CHICO",
+        "descripcion": "Mate camionero version pequeña, ideal para tomar mates solo. ",
+        "stock": 25,
+        "categoria": "Mates",
+        "imagen" :  "https://i.ibb.co/qBj4DtT/mate4.jpg",
+      
+        "precio": 12000 
+    },
+
+    {
+        "id": 6,
+        "titulo": "MATE TORPEDO ",
+        "descripcion": "Mate torpedo, con detalles en el cuero",
+        "stock": 15,
+        "categoria": "Mates",
+        "imagen" :  "https://i.ibb.co/Tq0PSVd/mate8.jpg",
+        "precio": 14300
+    },
+
+    {
+        "id": 7,
+        "titulo": "MATE CAMPEON DEL MUNDO",
+        "descripcion": "TU MATE IDEAL CAMPEEEON... ",
+        "stock": 15,
+        "categoria": "Mates",
+        "imagen" :  "https://i.ibb.co/jMF5cyj/mate9.jpg",
+        
+        "precio": 1812.22
+    },
+
+
+    {
+        "id": 8,
+        "titulo": "Yerbera Viajera",
+        "descripcion": "Yerbera ideal para viajar, viene con un porta bombilla incluido.",
+        "stock": 15,
+        "categoria": "Accesorios",
+        "imagen" :  "https://i.ibb.co/6ZzWZZK/yerbero-Bombilla.jpg",
+        "precio": 9300 
+    },
+
+    {
+        "id": 9,
+        "titulo": "PORTA MATE ",
+        "descripcion": "Accesorio ideal para el auto.",
+        "stock": 10,
+        "categoria": "Accesorios",
+        "imagen" :  "https://i.ibb.co/5Yd24jB/materacuero4.jpg",
+        "precio": 8700 
+    },
+
+    {
+        "id": 10,
+        "titulo": "MATERA DE CUERO",
+        "descripcion": "Matera ideal para llevar todas las cosas ",
+        "stock": 15,
+        "categoria": "Accesorios",
+        "imagen" :  "https://i.ibb.co/JvrdmxM/materacuero1.jpg"
+        ,
+        "precio": 14300 
+    }
+
+]   
